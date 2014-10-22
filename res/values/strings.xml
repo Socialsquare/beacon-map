@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BeaconMap</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string><string name="action_calibrate">Calibrate</string>
+    <string name="waiting_for_beacons">Waiting for beacons ...</string>
+    <string name="found_n_beacons">Found %d beacons</string>
+    <string name="title_activity_calibration">Let´s calibrate!</string>
+    <string name="upper_left">Upper Left</string>
+    <string name="upper_right">Upper Right</string>
+    <string name="lower_left">Lower Left</string>
+    <string name="lower_right">Lower Right</string>
+    <string name="calibrate_introduction">Click each of the buttons when standing in the respective corners of the room</string>
+    <string name="header_corner">Corner</string>
+    <string name="header_unique_beacons"># Unique Beacons</string>
+    <string name="header_samples"># Samples</string>
+    <string name="estimate_locations">Estimate beacon locations</string>
+    <string name="save_calibration_data">Save calibration data</string>
+
+</resources>
